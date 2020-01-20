@@ -75,7 +75,7 @@ The solution is deployed using 2 CloudFormation templates.
 4. Verify login works fine as Administrator
 
 ### Verifying how the solution performs at scale and at load
-1. Deploy the [Distributed Load Testing Solution on AWS](https://github.com/awslabs/distributed-load-testing-on-aws/?target=_blank) by GitHub
+1. Deploy the [Distributed Load Testing Solution on AWS](https://github.com/awslabs/distributed-load-testing-on-aws) by GitHub
 2. Follow the instructions for configuration
 3. Perform stress testing on solution Joomla Website
 
